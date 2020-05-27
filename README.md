@@ -6,3 +6,5 @@ Gifford Pinchot
 Idaho Panhandle
 Kaniksu
 Mount Baker-Snoqualmie
+Umatilla
+Wenatchee
