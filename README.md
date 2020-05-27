@@ -6,3 +6,4 @@ Gifford Pinchot
 Idaho Panhandle
 Kaniksu
 Mount Baker-Snoqualmie
+Okanogan
